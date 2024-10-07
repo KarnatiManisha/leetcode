@@ -29,5 +29,10 @@
 ## Array
 |  |
 | ------- |
+| [0134-gas-station](https://github.com/KarnatiManisha/leetcode/tree/master/0134-gas-station) |
 | [0747-min-cost-climbing-stairs](https://github.com/KarnatiManisha/leetcode/tree/master/0747-min-cost-climbing-stairs) |
+## Greedy
+|  |
+| ------- |
+| [0134-gas-station](https://github.com/KarnatiManisha/leetcode/tree/master/0134-gas-station) |
 <!---LeetCode Topics End-->
