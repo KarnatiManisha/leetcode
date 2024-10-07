@@ -30,9 +30,14 @@
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/KarnatiManisha/leetcode/tree/master/0134-gas-station) |
+| [0136-single-number](https://github.com/KarnatiManisha/leetcode/tree/master/0136-single-number) |
 | [0747-min-cost-climbing-stairs](https://github.com/KarnatiManisha/leetcode/tree/master/0747-min-cost-climbing-stairs) |
 ## Greedy
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/KarnatiManisha/leetcode/tree/master/0134-gas-station) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/KarnatiManisha/leetcode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
