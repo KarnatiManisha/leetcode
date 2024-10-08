@@ -41,6 +41,7 @@
 | [0134-gas-station](https://github.com/KarnatiManisha/leetcode/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/KarnatiManisha/leetcode/tree/master/0136-single-number) |
 | [0198-house-robber](https://github.com/KarnatiManisha/leetcode/tree/master/0198-house-robber) |
+| [0287-find-the-duplicate-number](https://github.com/KarnatiManisha/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0747-min-cost-climbing-stairs](https://github.com/KarnatiManisha/leetcode/tree/master/0747-min-cost-climbing-stairs) |
 ## Greedy
 |  |
@@ -50,6 +51,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/KarnatiManisha/leetcode/tree/master/0136-single-number) |
+| [0287-find-the-duplicate-number](https://github.com/KarnatiManisha/leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Combinatorics
 |  |
 | ------- |
@@ -58,4 +60,12 @@
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/KarnatiManisha/leetcode/tree/master/0063-unique-paths-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/KarnatiManisha/leetcode/tree/master/0287-find-the-duplicate-number) |
+## Binary Search
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/KarnatiManisha/leetcode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
