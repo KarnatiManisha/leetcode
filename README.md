@@ -18,10 +18,12 @@
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/KarnatiManisha/leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/KarnatiManisha/leetcode/tree/master/0070-climbing-stairs) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/KarnatiManisha/leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/KarnatiManisha/leetcode/tree/master/0070-climbing-stairs) |
 | [0516-longest-palindromic-subsequence](https://github.com/KarnatiManisha/leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0747-min-cost-climbing-stairs](https://github.com/KarnatiManisha/leetcode/tree/master/0747-min-cost-climbing-stairs) |
@@ -44,4 +46,8 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/KarnatiManisha/leetcode/tree/master/0136-single-number) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/KarnatiManisha/leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
