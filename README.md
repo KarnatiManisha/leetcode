@@ -24,6 +24,7 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/KarnatiManisha/leetcode/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/KarnatiManisha/leetcode/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/KarnatiManisha/leetcode/tree/master/0070-climbing-stairs) |
 | [0516-longest-palindromic-subsequence](https://github.com/KarnatiManisha/leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0747-min-cost-climbing-stairs](https://github.com/KarnatiManisha/leetcode/tree/master/0747-min-cost-climbing-stairs) |
@@ -35,6 +36,7 @@
 ## Array
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/KarnatiManisha/leetcode/tree/master/0063-unique-paths-ii) |
 | [0134-gas-station](https://github.com/KarnatiManisha/leetcode/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/KarnatiManisha/leetcode/tree/master/0136-single-number) |
 | [0747-min-cost-climbing-stairs](https://github.com/KarnatiManisha/leetcode/tree/master/0747-min-cost-climbing-stairs) |
@@ -50,4 +52,8 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/KarnatiManisha/leetcode/tree/master/0062-unique-paths) |
+## Matrix
+|  |
+| ------- |
+| [0063-unique-paths-ii](https://github.com/KarnatiManisha/leetcode/tree/master/0063-unique-paths-ii) |
 <!---LeetCode Topics End-->
